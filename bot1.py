@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 
-TOKEN = " ТОКЕН ВАМ НЕ ДАМ))) "
+TOKEN = " токен "
 
 
 # Обработка команды /start
